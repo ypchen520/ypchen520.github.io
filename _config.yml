@@ -31,6 +31,8 @@ github_username:  ypchen520
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
