@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
 
-  {% if site.paginate %}
+  <!-- {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
     {% assign posts = site.posts %}
@@ -36,7 +36,7 @@ layout: default
         {%- endif -%}
       </li>
       {%- endfor -%}
-    </ul>
+    </ul> -->
 
     {% if site.paginate %}
       <div class="pager">
@@ -56,6 +56,6 @@ layout: default
       </div>
     {%- endif %}
 
-  {%- endif -%}
+  <!-- {%- endif -%} -->
 
 </div>
