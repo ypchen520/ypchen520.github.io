@@ -1,0 +1,50 @@
+---
+layout: home
+author_profile: true
+title: About Me
+---
+Yu-Peng Chen is a member of the INIT Lab and is currently working on the MyTrack+/mHealth project and the $-Family of Gesture Recognizers project. His research interests include UX/UI Design, reinforcement learning, machine learning, and human-computer interaction.
+
+
+<div class="divShowHide"> 
+    <!-- <a href="#"><img id="Gator" src="./images/gator.png" onClick="gatorPacman();" /></a> -->
+    <img id="gator" src="./assets/images/gator.png"/>
+</div>
+<div class="divShowHide" style="display: none;">
+    <img id="gatorLogo" src="./assets/images/gator-red.png"/>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    // document.getElementById("Gator").onclick = function(){
+    //     alert("image clicked!!!");
+    // };
+    $(document).ready(function(){
+        $('.divShowHide').click(function(){
+            $('.divShowHide').show();
+            $(this).hide();
+        });
+    });
+    // $("clickme").click(function() {
+    //     $("Gator").toggle("slow");
+    // });
+    // function gatorPacman(){
+    //     img = document.getElementById("Gator");
+    //     img.addEventListener("click", show);
+    //     img.addEventListener("click", hide);
+    //     // if(img.style.visibility !== 'hidden'){
+    //     //     img.style.visibility = 'hidden';
+    //     // }else if(img.style.visibility === 'hidden'){
+    //     //     img.style.visibility = 'visible';
+    //     // }
+    //     // document.getElementById("demo").innerHTML = ;
+    // }
+    // function hide(){
+    //     document.getElementById("Gator").style.visibility = 'hidden';
+    // }
+    // function show(){
+    //     document.getElementById("Gator").style.visibility = 'visible';
+    // }
+</script>
+
+<!-- <input type="button" style="background: url(./images/gator.png"> -->
