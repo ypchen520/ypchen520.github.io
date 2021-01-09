@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Paper on children’s cognitive development and touchscreen interactions published at ICMI 2020"
+date:   2020-12-31 
+categories: projects gestures
+---
+
+We are pleased to share that our paper “Examining the Link between Children’s Cognitive Development and Touchscreen Interaction Patterns” was accepted as a short paper to ACM International Conference on Multimodal Interaction (ICMI). [The INIT Lab](https://init.cise.ufl.edu/) and [Ruiz HCI Lab](https://www.ruizlab.org/) have been collaborating with Dr. Pavlo Antonenko from the UF College of Education to investigate the relationship between children’s cognitive development and their touchscreen interactions.
+
+Here is the abstract:
+
+“It is well established that children’s touch and gesture interactions on touchscreen devices are different from those of adults, with much prior work showing that children’s input is recognized more poorly than adults’ input. In addition, researchers have shown that recognition of touchscreen input is poorest for young children and improves for older children when simply considering their age; however, individual differences in cognitive and motor development could also affect children’s input. An understanding of how cognitive and motor skill influence touchscreen interactions, as opposed to only coarser measurements like age and grade level, could help in developing personalized and tailored touchscreen interfaces for each child. To investigate how cognitive and motor development may be related to children’s touchscreen interactions, we conducted a study of 28 participants ages 4 to 7 that included validated assessments of the children’s motor and cognitive skills as well as typical touchscreen target acquisition and gesture tasks. We correlated participants’ touchscreen behaviors to their cognitive development level, including both fine motor skills and executive function. We compare our analysis of touchscreen interactions based on cognitive and motor development to prior work based on children’s age. We show that all four factors (age, grade level, motor skill, and executive function) show similar correlations with target miss rates and gesture recognition rates. Thus, we conclude that age and grade level are sufficiently sensitive when considering children’s touchscreen behaviors.”
+
+Interested readers can find the camera-ready version available [here](https://init.cise.ufl.edu/examining-the-link-between-childrens-cognitive-development-and-touchscreen-interaction-patterns/).
+
+In the time of the COVID-19 pandemic, we were sad to miss out on the opportunity to visit Utrecht, the Netherlands and meet other researchers in person, especially when it would have been my first time attending a research conference. However, as a second-year Ph.D. student, I was still very grateful for having the chance to share our work at the ICMI 2020 virtual conference. Working on the pre-recorded presentation of the paper and introducing briefly our work to the audience during the live session taught me some of the essential skills for attending a research conference. I was also proud to be able to represent our lab and discuss topics related to multimodal interaction with other researchers during the virtual conference.
+
