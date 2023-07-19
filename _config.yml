@@ -35,6 +35,7 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "sunrise"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
