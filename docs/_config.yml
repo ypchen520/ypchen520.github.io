@@ -21,7 +21,7 @@
 title: Yu-Peng Chen (陳毓鵬)
 email: ypchen520@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I enjoy learning new things. I love working out, specifically hooping 🏀, lifting weights 🦾, and running 👟.
+  I enjoy learning new things. I love working out, specifically hooping 🏀, lifting weights 🦾, and running 👟
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yupengchen.com/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -32,8 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-minima:
-  skin: dark
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
