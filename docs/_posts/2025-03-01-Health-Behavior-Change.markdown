@@ -8,7 +8,7 @@ categories: research
 Key factors in those strategies that are crucial for an individual to achieve health behavior change include:
 - Setting challenging yet attainable goals to become motivated.
 - Setting implementation intentions by making simple plans that translate goals into actions.
-- Achieving intermediate sub-goals to increase selfefficacy.
+- Achieving intermediate sub-goals to increase self-efficacy.
 - Self-monitoring and receiving feedback to increase self-awareness.
 - Reminders to trigger actions toward the health goal and increase adherence.
 - Rewards and gamification to increase app engagement.
